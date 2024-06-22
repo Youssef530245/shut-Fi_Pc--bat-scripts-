@@ -1,7 +1,7 @@
 # shutfire-bat-script
 
 - (shutfire) is a bat script for os windows from one click on it the firewall is shut down 
-- (donw) also a bat file to shutdown the windows pc when you click .
+- (down) also a bat file to shutdown the windows pc when you click .
 
 ### to get it run this command line in the terminal (cmd)
 
